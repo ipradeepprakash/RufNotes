@@ -1,4 +1,6 @@
 # School marketing steps to attract more students 
+Reference: 
+- [School Marketing](https://www.youtube.com/watch?v=BOUIOa5SI8I)
 
 you want more students in your school, but, so do your competitors. high competition now is a big challenge for every private school in india. parents have so many options for their children that they may not even get to you even when you offer the best of everything. this is where school marketing comes in.
 
