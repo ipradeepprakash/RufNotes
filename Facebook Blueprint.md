@@ -15,7 +15,7 @@ https://www.facebookblueprint.com/student/path/219717/activity/210123#/page/5feb
 - Determine which integration option is best for your business, and explore best practices for sharing data responsibly.
 
 ### Lessons
-----------
+
 1. Establish a more reliable connection
 2. Decide what information to share
 3. Connect your information with Conversions API 
@@ -24,3 +24,17 @@ https://www.facebookblueprint.com/student/path/219717/activity/210123#/page/5feb
     - Explore how the Conversions API can be used along with the Meta Pixel to establish a more reliable data connection. 
     - Improve your ad performance by sharing data from your website, app, offline conversions and messaging events.
     - ![COnversion API ](https://www.facebookblueprint.com/student/path/219717/activity/210123#/page/5febb5aa2910d9784c99d979)
+
+
+    ### Using the Conversions API and Pixel together
+    - Use the Conversions API to send the same conversion events that you currently send through the Meta Pixel, as well as any additional post-conversion events that you’re unable to send through the Pixel, such as a new customer purchase or a qualified lead. 
+
+
+
+
+
+
+
+
+
+
