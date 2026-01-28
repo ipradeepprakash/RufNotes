@@ -1,2 +1,2 @@
 # RufNotes
-Trial &amp; error about Non-Tech Stuff
+Trial & error: error about Non-Tech Stuff
